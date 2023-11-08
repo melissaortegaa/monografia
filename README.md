@@ -1,7 +1,7 @@
 # Titulo: NLP para análsisi de sentimientos en mensajes de soporte
-### Documentaion: especializacieon en analítica y ciencia de datos
-
-### Autor: 
+### Documentaion: Especializacieon en Analítica y Ciencia de datos
+### Documentaion: Universidad de Antioquia (2023-II)
+### Autor: Melissa Ortega Alzate
 
 Texto normal
     > Quoting text
