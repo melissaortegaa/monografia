@@ -1,3 +1,8 @@
-titulo: monografía de especialización Melissa Ortega Alzate
-autor: Melissa Ortega
-fecha: noviembre 2023
+ipykernel==6.22.0
+ipython==8.12.0
+keras==2.14.0
+matplotlib-inline==0.1.6
+pandas==2.1.1
+numpy==1.26.1
+scikit-image==0.22.0
+scipy==1.11.3
