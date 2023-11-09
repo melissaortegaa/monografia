@@ -16,4 +16,4 @@ Finalmente, se dumifica la variable de salida, obteniendo 1 para las imágenes c
 
 El Notebook "ME03 - Data preparation" de Google Collaboratory usa los archivos del repositorio como insumo para su ejecución.
 
-### NOTA: En GitHub se cargó una muestra de 500 imágenes, 250 de cada clase.
+### NOTA: En GitHub se cargó una muestra de 50 imágenes, 25 de cada clase.
