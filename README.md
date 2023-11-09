@@ -12,10 +12,12 @@ Más adelante se encuentra la sección de visualización, allí se grafica un di
 
 En el preprocesamiento de las imágenes, se utiliza un ciclo para cargar y estandarizar cada imagen dividiendo los pixeles por 255. Además, se establece el tamaño de todas como 224x224 pixeles en caso de que alguna estuviera por fuera de esta especificación. En este ciclo se crea una lista, en donde cada elemento corresponde a una imágen de tamaño (224, 224, 3). Luego, la lista es convertida a un tensor de tamaño (5028,224,224,3).
 
-Finalmente, se dumifica la variable de salida, obteniendo 1 para las imágenes clasificadas con Salmonella y 0 para las imágenes saludables. Con lo anterior, se obtiene un archivo .csv modificado con las clases y tensor (arreglo de numPy multidimensional) con las imágenes.
+Se dumifica la variable de salida, obteniendo 1 para las imágenes clasificadas con Salmonella y 0 para las imágenes saludables. Con lo anterior, se obtiene un archivo .csv modificado con las clases y tensor (arreglo de numPy multidimensional) con las imágenes.
 
+### Nota 1
 El Notebook "ME03_data_preparation_collab" de Google Collaboratory usa los archivos del repositorio como insumo para su ejecución. Sin embargo, es una muestra pequeña y algunas celdas cambian parcialmente para poder establecer esta conexión.
 
 En el Notebook "ME03_data_preparation_local" se muestra un script ejecutado con las celdas y código como debe ser ejecutado en un ambiente local y con todas las imágenes disponibles. Por favor, revisar también.
 
-### Nota: En GitHub se cargó una muestra de 20 imágenes, 10 de cada clase.
+### Nota2
+En GitHub se cargó una muestra de 20 imágenes, 10 de cada clase.
