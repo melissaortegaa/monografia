@@ -1,7 +1,7 @@
-# Titulo: Redes neuronales convolucionales para la detecciónd de Salmonella spp. en aves de corral
-### Especializacieon en Analítica y Ciencia de datos
-
-### Autor: 
+# Titulo: NLP para análsisi de sentimientos en mensajes de soporte
+### Documentaion: Especializacieon en Analítica y Ciencia de datos
+### Documentaion: Universidad de Antioquia (2023-II)
+### Autor: Melissa Ortega Alzate
 
 Texto normal
     > Quoting text
