@@ -14,6 +14,8 @@ En el preprocesamiento de las imágenes, se utiliza un ciclo para cargar y estan
 
 Finalmente, se dumifica la variable de salida, obteniendo 1 para las imágenes clasificadas con Salmonella y 0 para las imágenes saludables. Con lo anterior, se obtiene un archivo .csv modificado con las clases y tensor (arreglo de numPy multidimensional) con las imágenes.
 
-El Notebook "ME03 - Data preparation" de Google Collaboratory usa los archivos del repositorio como insumo para su ejecución.
+El Notebook "ME03_data_preparation_collab" de Google Collaboratory usa los archivos del repositorio como insumo para su ejecución. Sin embargo, es una muestra pequeña y algunas celdas cambian parcialmente para poder establecer esta conexión.
 
-### NOTA: En GitHub se cargó una muestra de 50 imágenes, 25 de cada clase.
+En el Notebook "ME03_data_preparation_local" se muestra un script ejecutado con las celdas y código como debe ser ejecutado en un ambiente local y con todas las imágenes disponibles. Por favor, revisar también.
+
+### Nota: En GitHub se cargó una muestra de 20 imágenes, 10 de cada clase.
