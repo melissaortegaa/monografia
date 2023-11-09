@@ -1,5 +1,5 @@
-# Titulo: NLP para análsisi de sentimientos en mensajes de soporte
-### Documentaion: especializacieon en analítica y ciencia de datos
+# Titulo: Redes neuronales convolucionales para la detecciónd de Salmonella spp. en aves de corral
+### Especializacieon en Analítica y Ciencia de datos
 
 ### Autor: 
 
