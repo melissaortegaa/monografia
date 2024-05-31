@@ -1,6 +1,8 @@
-# Titulo: Redes neuronales convolucionales para la detección de Salmonella *spp.* en aves de corral
+# Redes neuronales convolucionales para la detección de Salmonella *spp.* en aves de corral
+## Convolutional Neural Networks for the Detection of Salmonella spp. in Poultry
+
 ### Especialización en Analítica y Ciencia de datos - Analytics & Data Science
-### Universidad de Antioquia (2023-II)
+### Universidad de Antioquia (2024)
 ### Autor: Melissa Ortega Alzate
 
 
