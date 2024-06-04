@@ -10,6 +10,17 @@ In this project, different architectures of Convolutional Neural Networks (CNN) 
 
 The results showed that both models outperformed the baseline model in terms of accuracy and recall, with VGG16 achieving a precision of 98.42% and ResNet50v2 of 93.67%. In conclusion, the effectiveness of computer vision and deep learning techniques for the detection of Salmonella spp. was demonstrated, which provides a solid foundation for future research with images taken in Colombia.
 
+## Notebooks Summary
+
+| File                            | Summary                                                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `01_data_prep_EDA.ipynb`        | In this notebook, 14 convolutional neural network (CNN) models are designed and compared to classify images into two categories: Healthy or Salmonella. The models are compared in terms of accuracy, using different combinations of optimizers (Adam and RMSprop), regularizers (L1, L2, L1_L2, and none), and Dropout layers. The performance of each model is evaluated using confusion matrices and performance metrics such as accuracy and recall. |
+| `02_baseline.ipynb`             | In this notebook, 14 convolutional neural network (CNN) models are designed and compared to classify images into two categories: Healthy or Salmonella. The models are compared in terms of accuracy, using different combinations of optimizers (Adam and RMSprop), regularizers (L1, L2, L1_L2, and none), and Dropout layers. The performance of each model is evaluated using confusion matrices and performance metrics such as accuracy, recall and auc.       |
+| `03_transfer_learning_VGG16.ipynb` | This Notebooks cover:<br><br>1. Data Preprocessing: Preparing images with techniques like data augmentation.<br>2. Initial Training: Extract images characteristics using the VGG16 or ResNet50v2 network on the training set and evaluating on the validation set.<br>3. Fine-tuning: Unfreezing specific layers for improved Salmonella classification.<br>4. Model Evaluation: Assessing the model's performance with confusion matrix visualization and metric comparison, including the test set. |
+
+## Contributing
+
+Guidelines for contributing to your project.
 
 ### Estándares de desarrollo
 - Usar ramas diferentes para cada issue
