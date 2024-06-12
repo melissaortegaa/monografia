@@ -1,4 +1,4 @@
-# Redes neuronales convolucionales para la detección de Salmonella *spp.* en aves de corral
+# Redes neuronales convolucionales para la detección de Salmonella *spp.* en aves
 ## Convolutional Neural Networks for the Detection of Salmonella spp. in Poultry
 
 #### Especialización en Analítica y Ciencia de datos - Analytics & Data Science
